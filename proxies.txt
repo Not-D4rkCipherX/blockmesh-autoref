@@ -1,0 +1,4 @@
+#Just example, please delete!
+#If you want to run without proxy just delete this all
+http://proxyhost:port
+http://user:pass@proxyhost:port
