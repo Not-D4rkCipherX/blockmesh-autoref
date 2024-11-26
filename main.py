@@ -26,8 +26,8 @@ def display_header():
                  AUTO REFERRAL SCRIPT
 {Style.RESET_ALL}
 {Fore.YELLOW}╔════════════════════════════════════════════════╗
-║  {Fore.GREEN}• Author: Nofan Rambe                         {Fore.YELLOW}║
-║  {Fore.GREEN}• Welcome & Enjoy Sir!                        {Fore.YELLOW}║
+║  {Fore.GREEN}•   Welcome                                    {Fore.YELLOW}║
+║  {Fore.GREEN}•     & Enjoy                                  {Fore.YELLOW}║
 ╚════════════════════════════════════════════════╝{Style.RESET_ALL}
     """)
 
